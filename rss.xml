@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OfficialSite]]></title>
+        <description><![CDATA[OfficialSite]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 May 2016 12:05:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Paweł Tomaszewski</p>]]></description>
+            <link>undefinedpawel-tomaszewski/index.html</link>
+            <guid isPermaLink="false">0d7e0f4e-daa1-4518-a665-410e913b7965</guid>
+            <pubDate>Thu, 26 May 2016 12:05:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
